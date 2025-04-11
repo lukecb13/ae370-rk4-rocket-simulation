@@ -10,5 +10,5 @@ This project models the trajectory of a rocket under the effects of gravity and 
 
 ## Repository Contents
 
-- `main.ipynb` — Main simulation code for the rocket trajectory.
+- `AE370_P1.ipynb` — Main simulation code for the rocket trajectory.
 
